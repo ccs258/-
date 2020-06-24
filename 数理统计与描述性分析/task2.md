@@ -97,6 +97,8 @@ python实现数据各维度的描述性分析；
       #原因是git status发现把C盘其他文件也加入进来了；在项目目录下执行git checkout . && git clean -xdf
       ，再在上一级目录执行(venv) C:\Users\ccs>git checkout . && git clean -xdf
       再git status查看
+      
+      #还有需要把上一级目录中导致提交的.gittrackes文件删除掉；可能是由于我之前切换的时候不小心到了上一级目录；
 
 
 
