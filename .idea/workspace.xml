@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ddf61a-58d7-4526-8882-d1a6cace8c24" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/数理统计与描述性分析/task2.md" beforeDir="false" afterPath="$PROJECT_DIR$/数理统计与描述性分析/task2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/常见分布与假设检验/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/常见分布与假设检验/task3.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/常见分布与假设检验/常见分布.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,18 +143,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592998953115" />
-    <state x="11" y="51" key="SettingsEditor" timestamp="1592727619915">
+    <state x="11" y="51" key="SettingsEditor" timestamp="1593226099360">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="11" y="51" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592727619915" />
+    <state x="11" y="51" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593226099360" />
     <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1592989165936">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592989165936" />
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1592982691648">
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1593259968569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592982691648" />
+    <state x="461" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593259968569" />
     <state x="470" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592990663875">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
